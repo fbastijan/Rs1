@@ -2,6 +2,7 @@ import heapq
 
 def dijkstra(graph, start):
     distances = {node: float('inf') for node in graph}
+    print(distances)
     distances[start] = 0
     queue = [(0, start)]
     while queue:

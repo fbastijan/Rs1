@@ -1,0 +1,32 @@
+01&Grad/Zagreb i Zagrebačka županija&Fiksna mreža
+020&Dubrovačko-neretvanska županija&Fiksna mreža
+021&Splitsko-dalmatinska županija&Fiksna mreža
+022&Šibensko-kninska županija&Fiksna mreža
+023&Zadarska županija&Fiksna mreža
+031&Osječko-baranjska županija&Fiksna mreža
+032&Vukovarsko-srijemska županija&Fiksna mreža
+033&Virovitičko-podravska županija&Fiksna mreža
+034&Požeško-slavonska županija&Fiksna mreža
+035&Brodsko-posavska županija&Fiksna mreža
+040&Međimurska županija&Fiksna mreža
+042&Vukovarska županija&Fiksna mreža
+043&Bjelovarsko-bilogorska županija&Fiksna mreža
+044&Sisačko-moslavačka županija&Fiksna mreža
+047&Karlovačka županija&Fiksna mreža
+048&Koprivničko-križevačka županija&Fiksna mreža
+049&Krapinsko-zagorska županija&Fiksna mreža
+051&Primorsko-goranska županija&Fiksna mreža
+052&Istarska županija&Fiksna mreža
+053&Ličko-senjska županija&Fiksna mreža
+091&A1 Hrvatska&Mobilna mreža
+092&Tomato&Mobilna mreža
+095&Telemach&Mobilna mreža
+097&bonbon&Mobilna mreža
+098&Hrvatski Telekom&Mobilna mreža
+0800&Besplatni pozivi&Posebne usluge
+060&Komercijalni pozivi&Posebne usluge
+061&Glasovanje telefonom&Posebne usluge
+064&Usluge s neprimjerenim sadržajem&Posebne usluge
+065&Nagradne igre&Posebne usluge
+069&Usluge namijenjene djeci&Posebne usluge
+072&jedinstveni pristupni broj za cijelu državu za posebne usluge&Posebne usluge
